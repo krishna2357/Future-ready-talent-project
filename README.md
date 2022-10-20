@@ -19,4 +19,10 @@ After Creating the Code For the webpage I uploaded the code to the empty github 
 ![Github Repository](https://user-images.githubusercontent.com/91585224/196945882-838e7790-80dc-469d-a809-2819be78a4cf.png)
 
 
-Now i created the webpage link for my project using STATIC WEB APPS with the repository which i uploaded the code.After creating it the URL for my project was obtained.
+Now i created the webpage link for my project using STATIC WEB APPS with the repository which i uploaded the code.After creating it, it looks like this.
+![static web apps](https://user-images.githubusercontent.com/91585224/196947208-5280a3b2-24b1-489f-86ee-6b8058204362.png)
+
+In the above figure we can see there is an URL which is created fr my webpage. That is the final link for my website.
+Then i uploaded the URL of my project in the github.
+
+If you open my project it will look like this.
