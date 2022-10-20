@@ -11,5 +11,7 @@ I Created My Project Using 2 Azure technologies, They Are
 2. Visual Studio Code 
 
 By Using Visual Studio Code I developed a page Using HTML.
+![Visual Studio Code](https://user-images.githubusercontent.com/91585224/196944883-ee5b2bdb-c593-43d5-8c8b-665ec7c41657.png)
 
-After Creating the Code For the webpage I uploaded the code t
+After Creating the Code For the webpage I uploaded the code to the empty github repository which i created for the project.
+
