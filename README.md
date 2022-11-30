@@ -1,12 +1,14 @@
-# future-ready-talent-project
-
+# FUTURE-READY-TALENT-PROJECT
 This is my Final project for the future ready talent Internship.
          
 #project link: https://thankful-sky-033fad300.2.azurestaticapps.net
 
-#project demo video link: 
+#project demo video link:  https://youtu.be/YZL4Sdu_2bM
       
-My project is about Developing a fashion Category Website for products with cheap price and good quality to help the people.
+My project is about Developing a fashion Category Website 
+
+It is useful for people with fashion products with reasonable price and good quality.
+I hope every person wants to buy fashionable goods at a reasonable price , Providing that needs is my projects goal.
 
 
 I Created My Project Using 2 Azure technologies, They Are 
@@ -14,7 +16,7 @@ I Created My Project Using 2 Azure technologies, They Are
 1. Static Web Apps 
 2. Visual Studio Code 
 
-By Using Visual Studio Code I developed a page Using HTML as shown.
+By Using Visual Studio Code I developed a webpage Using HTML as shown.
 ![Visual Studio Code](https://user-images.githubusercontent.com/91585224/196944883-ee5b2bdb-c593-43d5-8c8b-665ec7c41657.png)
 
 
@@ -30,6 +32,7 @@ In the above figure we can see there is an URL which is created fr my webpage. T
 Then i uploaded the URL of my project in the github.
 
 If you open my project it will look like this.
+these are some screenshots of my project.
 
 
 ![Home](https://user-images.githubusercontent.com/91585224/196948953-8919694e-02a2-4f30-98c0-9a77462613f6.png)
