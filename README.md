@@ -3,6 +3,8 @@
 This is my Final project for the future ready talent Internship.
          
 #project link: https://thankful-sky-033fad300.2.azurestaticapps.net
+
+#project demo video link: 
       
 My project is about Developing a fashion Category Website for products with cheap price and good quality to help the people.
 
