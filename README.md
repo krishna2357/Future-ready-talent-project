@@ -10,13 +10,22 @@ My project is about Developing a fashion Category Website 💭
 
 It is useful for people with fashion products with reasonable price and good quality.
 I hope every person wants to buy fashionable goods at a reasonable price , Providing that needs is my projects goal.
+In Addition to this my website contains a health bot , it can be used to give precautions for your body symptoms to control the decease or any disabilities.
 
 
 I Created My Project Using 2 Azure technologies, They Are 
 
 1️⃣ Static Web Apps
 
-2️⃣ Visual Studio Code 
+2️⃣ Health Bot 
+
+📌 First I Created A Health Bot Using Azure As Shown.
+
+
+![image](https://user-images.githubusercontent.com/91585224/210144052-eab68cb1-36a1-4157-b9ef-060dbf381bea.png)
+
+📌 After Creating The Bot I Developed A code Which Can Be Used TO Access The Bot
+
 
 📌 By Using Visual Studio Code I developed a webpage Using HTML as shown.
 
@@ -33,8 +42,7 @@ I Created My Project Using 2 Azure technologies, They Are
 
 📌 Now i created the webpage link for my project using STATIC WEB APPS with the repository which i uploaded the code.After creating it, it looks like this.
 
-
-![static web apps](https://user-images.githubusercontent.com/91585224/196947208-5280a3b2-24b1-489f-86ee-6b8058204362.png)
+![image](https://user-images.githubusercontent.com/91585224/210145324-9c81eb25-4dd3-45c1-806d-97582c433832.png)
 
 
 🔎 In the above figure we can see there is an URL which is created fr my webpage. That is the final link for my website.
@@ -48,7 +56,7 @@ Then i uploaded the URL of my project in the github.
 
 
 
-![Home](https://user-images.githubusercontent.com/91585224/196948953-8919694e-02a2-4f30-98c0-9a77462613f6.png)
+![image](https://user-images.githubusercontent.com/91585224/210148266-5701158d-0f13-4052-99ef-bd02205d2cf5.png)
 
 
 
@@ -60,7 +68,7 @@ Then i uploaded the URL of my project in the github.
 
 
 
-![About](https://user-images.githubusercontent.com/91585224/196949057-ee984718-b680-4b81-b4f8-be8e27e49776.png)
+![image](https://user-images.githubusercontent.com/91585224/210148537-ed61e552-c937-43b5-8684-475dec91eaaf.png)
 
 
 
@@ -68,11 +76,19 @@ Then i uploaded the URL of my project in the github.
 
 
 
-![Serivces](https://user-images.githubusercontent.com/91585224/196949082-90914435-ec2f-494e-ab46-0492dbccd69c.png)
+![image](https://user-images.githubusercontent.com/91585224/210148572-dc0ce54e-2959-486c-a3af-79bb3452bd84.png)
 
 
 
-![Contact](https://user-images.githubusercontent.com/91585224/196949717-9eaa0b02-1995-470a-ae5e-8d6a1a10ce3f.png)
+![image](https://user-images.githubusercontent.com/91585224/210148589-a5e77d8f-1fa1-4771-886a-0c2d57224ef5.png)
+
+
+
+![image](https://user-images.githubusercontent.com/91585224/210148606-f9a5dc9c-f2ba-424d-9502-31c2d4d0f00a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/91585224/210148617-11b9e197-d2bc-453f-8a8f-b18506114018.png)
 
 
 
