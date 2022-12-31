@@ -4,7 +4,7 @@ This is my Final project for the future ready talent Internship.
          
 📌 #project link: https://thankful-sky-033fad300.2.azurestaticapps.net
 
-📌 #project demo video link:  https://youtu.be/YZL4Sdu_2bM
+📌 #project demo video link:  https://youtu.be/RcRp7AGt5M0
       
 My project is about Developing a fashion Category Website 💭
 
